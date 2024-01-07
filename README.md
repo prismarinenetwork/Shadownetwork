@@ -12,13 +12,7 @@
 - Most useful Methods and Cheats
 - Widgetbot 
 ## Contributors:
-- Nightless
-- Ghostly
-- stllcld
-- Snorlax
-- Salamander
-- Potato
-
+[![Contrib](https://contrib.rocks/image?repo=Shadowproxynetwork/Shadownetwork)](https://github.com/Shadowproxynetwork/Shadownetwork/graphs/contributors)
 
 
 ## Deployment
@@ -32,5 +26,4 @@
 [![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/Shadowproxynetwork/Shadownetwork)
 
 ## Join our Discord!
-discord.gg/G89wNZhzCk" 
-
+[Shadow Network](discord.gg/G89wNZhzCk)
